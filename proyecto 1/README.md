@@ -1,11 +1,3 @@
-proyecto-para-datos
-==============================
-
-A short description of the project.
-
-Project Organization
-------------
-
 # Proyecto de programación para análisis de datos. 
 
 ## Definición del Problema 
